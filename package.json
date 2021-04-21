@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "discord-bot-website",
-=======
   "name": "discord-website",
->>>>>>> Initialize project using Create React App
   "version": "0.1.0",
   "private": true,
   "dependencies": {
